@@ -1,0 +1,22 @@
+From 8b6b9fc360ba09ffa98b23a402f633d0f4bc24b9 Mon Sep 17 00:00:00 2001
+Message-Id: <8b6b9fc360ba09ffa98b23a402f633d0f4bc24b9.1682461269.git-series.amyrebwein@gmail.com>
+In-Reply-To: <cover.6e7f124a417696e835644ceacba86336d479895c.1682461269.git-series.amyrebwein@gmail.com>
+References: <cover.6e7f124a417696e835644ceacba86336d479895c.1682461269.git-series.amyrebwein@gmail.com>
+From: Amy Weiner <amyrebwein@gmail.com>
+Date: Tue, 25 Apr 2023 15:06:59 -0700
+Subject: [PATCH 3/3] Add third
+
+---
+ third.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 third.txt
+
+diff --git a/third.txt b/third.txt
+new file mode 100644
+index 0000000..16df5ea
+--- /dev/null
++++ b/third.txt
+@@ -0,0 +1 @@
++Third
+-- 
+git-series 0.9.1

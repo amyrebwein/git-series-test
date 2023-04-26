@@ -1,0 +1,22 @@
+From 6e7f124a417696e835644ceacba86336d479895c Mon Sep 17 00:00:00 2001
+Message-Id: <cover.6e7f124a417696e835644ceacba86336d479895c.1682461269.git-series.amyrebwein@gmail.com>
+From: Amy Weiner <amyrebwein@gmail.com>
+Date: Tue, 25 Apr 2023 15:21:09 -0700
+Subject: [PATCH 0/3] Here is my cover letter
+
+Amy Weiner (3):
+  Add first
+  Add second
+  Add third
+
+ first.txt  | 1 +
+ second.txt | 1 +
+ third.txt  | 1 +
+ 3 files changed, 3 insertions(+)
+ create mode 100644 first.txt
+ create mode 100644 second.txt
+ create mode 100644 third.txt
+
+base-commit: 361457f01424634b3bfe4efb1d52119452595dc0
+-- 
+git-series 0.9.1

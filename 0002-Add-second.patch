@@ -1,0 +1,22 @@
+From e1cfc79047e9d3cef7695651ff2241a02d835e59 Mon Sep 17 00:00:00 2001
+Message-Id: <e1cfc79047e9d3cef7695651ff2241a02d835e59.1682461269.git-series.amyrebwein@gmail.com>
+In-Reply-To: <cover.6e7f124a417696e835644ceacba86336d479895c.1682461269.git-series.amyrebwein@gmail.com>
+References: <cover.6e7f124a417696e835644ceacba86336d479895c.1682461269.git-series.amyrebwein@gmail.com>
+From: Amy Weiner <amyrebwein@gmail.com>
+Date: Tue, 25 Apr 2023 14:57:54 -0700
+Subject: [PATCH 2/3] Add second
+
+---
+ second.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 second.txt
+
+diff --git a/second.txt b/second.txt
+new file mode 100644
+index 0000000..495a7e9
+--- /dev/null
++++ b/second.txt
+@@ -0,0 +1 @@
++Second
+-- 
+git-series 0.9.1
